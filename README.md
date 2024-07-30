@@ -7,3 +7,5 @@ I am a Student who is exploring and getting to know things
 |-----:|-----------------|
 |     1|    Python       |
 |     2|      SQL        |
+
+Currently working on something cool!
